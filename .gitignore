@@ -2,4 +2,4 @@
 /.vscode/
 /.idea/
 **/sandbox/
-sequelize*.json
+/sequelize*.json
